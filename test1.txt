@@ -4,3 +4,4 @@ But we must Try.
 Now I got some problem.
 And I soughtout them.
 Now i create branch and Edit Txt File.
+Now I merge locally on Git.
